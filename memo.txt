@@ -1,7 +1,6 @@
 midir self_learning
 git init
 notepad memo.txt
-git push origin master
 git add  .\memo.txt
 git commit -m "add new file"
 git remote add origin https://github.com/umidachi/self_learning.git
